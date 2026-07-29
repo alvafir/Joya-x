@@ -1,1 +1,0 @@
-"""Adaptive (Sprint 5)."""
