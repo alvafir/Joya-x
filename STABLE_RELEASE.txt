@@ -1,0 +1,4 @@
+Release: JOYA Enterprise 4.2.0 STABLE
+Branch target: principal
+Purpose: production backup
+Do not develop directly on this release.
